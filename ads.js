@@ -68,7 +68,7 @@ function showLoader() {
 
     // Rewarded ad slot â€” no .then(), just store the slot directly
     rewardedSlot = googletag.defineOutOfPageSlot(
-      "/23330730517/playfusionx.in_reward",
+      "/23330730517/gamerushz.com_reward",
       googletag.enums.OutOfPageFormat.REWARDED
     );
 
